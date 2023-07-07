@@ -1,0 +1,13 @@
+nav > ul{
+    display: inline; 
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+article{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
